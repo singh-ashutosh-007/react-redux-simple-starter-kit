@@ -1,10 +1,10 @@
-# Initial Assessment App for Physio
+# React Redux Simple Starter Kit
 
-Initial Assessment App for Physio to fill the Initial Assessment Form during the first free visit.
+React Redux Simple Starter Kit.
 
 ## Getting Started
 
-* [Clone](git@github.com:healthcareathome/ia_pcs_app.git) - repository
+* [Clone](https://github.com/ashutosh-singh-rawat/react-redux-simple-starter-kit.git) - repository
 
 ### Prerequisites
 
